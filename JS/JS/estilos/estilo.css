@@ -1,0 +1,20 @@
+p, li {
+    color: red;
+}
+p {
+    font-size: 20px;
+}
+li {
+    font-family: fantasy;
+}
+h1{
+    text-shadow: 3px 3px 1px rgba(87, 87, 87, 0.696);
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: beige;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
